@@ -1,8 +1,9 @@
 # Beginning Java EE 7
-
+این پروژه نمونه کدهای نوشته شده برای کتاب Beginning Java EE 7 است . سعی بر آن است که به فارسی سازی کامنت‌ها و اضافه کردن توضیحات درون سورس‌ها بپردازم که کاربران فارسی زبان بتوانند بیشتر با این فریمورک بسیار قوی آشنا شوند. 
+جا دارد تشکری داشته باشم از آقای آنتونیو گانکالوز که این کتاب بسیار خوب و جامع رو نوشتند . 
+شما می‌توانید لینک دسترسی به سایت شخصی نویسنده و همچنین به لینک خرید کتاب از طریق آمازون از طریق لینک‌های زیر دسترسی داشته باشید . 
 * [Antonio Goncalves](http://www.antoniogoncalves.org)
 * [Java EE 7 Book](http://www.amazon.com/gp/product/143022889X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143022889X&linkCode=as2&tag=antgonblo-20)
-* [Download code on GitHub](https://github.com/agoncal/agoncal-book-javaee7)
 
 # Structure of the book
 
