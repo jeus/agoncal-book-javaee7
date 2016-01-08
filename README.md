@@ -6,16 +6,16 @@
 * [Antonio Goncalves](http://www.antoniogoncalves.org)
 * [Java EE 7 Book](http://www.amazon.com/gp/product/143022889X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143022889X&linkCode=as2&tag=antgonblo-20)
 
-# Structure of the book
+<div lang="fa" dir="rtl">ساختار کتاب  
 
-Section 1 - Introduction
+بخش اول معرفی 
 
-* Chapter 1 - Java EE 7 Environment
+*فصل اول - محیط جاوا نسخه سازمانی
 
-Section 2 - Cross concerns
+بخش دوم - Cross concerns
 
-* Chapter 2 - Context & Dependency Injection
-* Chapter 3 - Bean Validation
+* فصل دوم  - مفاد و تزریق وابستگی 
+* فصل سوم - اعتبار سنجی‌ Bean
 
 Section 3 - Building a domain model
 
@@ -28,7 +28,7 @@ Section 4 - Implementing business logic
 * Chapter 7 - Enterprise Java Beans
 * Chapter 8 - Callback & Timer Service
 * Chapter 9 - Transactions
-
+</div>
 Section 5 - Adding a web & user interface
 
 * Chapter 10 - JavaServer Faces
