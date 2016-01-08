@@ -7,20 +7,22 @@
 * [Java EE 7 Book](http://www.amazon.com/gp/product/143022889X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143022889X&linkCode=as2&tag=antgonblo-20)
 
 <div lang="fa" dir="rtl">ساختار کتاب  
-
+<br/>
 بخش اول معرفی 
-
+<br/>
 *فصل اول - محیط جاوا نسخه سازمانی
-
+<br/>
 بخش دوم - Cross concerns
-
+<br/>
 * فصل دوم  - مفاد و تزریق وابستگی 
 * فصل سوم - اعتبار سنجی‌ Bean
-
+<br/>
 Section 3 - Building a domain model
-
+<br/>
 * Chapter 4 - Persistence
+<br/>
 * Chapter 5 - Object-Relational Mapping
+<br/>
 * Chapter 6 - Managing Persistent Object
 
 Section 4 - Implementing business logic
